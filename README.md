@@ -1,0 +1,2 @@
+# HASEE_Z7M_SL5-7-D1_OC_EFI
+Z7M_SL5(7)D1系列Hackintool EFI文件
